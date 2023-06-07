@@ -11,3 +11,11 @@ pr-status.py repo-owner repo-name
    Samriddha Choudhuri
 
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`gittoken` : Token for authentication
+
+
+

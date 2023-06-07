@@ -8,9 +8,13 @@ You can use the **EXPORT gittoken="your token"** to set this up
 
 The script also deals with **pagination** as Github has a hard limit of 30 requests per page ,hence for repositories with huge Pull requests the script will take some time to generate the output.For limited number of pull requests it should be completed within seconds.
 
-Usage
+**Usage**
  
-pr-status.py repo-owner repo-name
+_**pr-status.py repo-owner repo-name**_
+
+**Examples**
+>pr-status.py neosam01 pr-status
+>pr-status.py docker compose
 
 ## Authors
 

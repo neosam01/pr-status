@@ -14,6 +14,7 @@ _**pr-status.py repo-owner repo-name**_
 
 **Examples**
 >pr-status.py neosam01 pr-status
+
 >pr-status.py docker compose
 
 ## Authors

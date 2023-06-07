@@ -1,5 +1,5 @@
 # pr-status 
-Python script to generate pull request data of any given repository
+Python script to extract pull request data of any given repository,the script dynamically generates a html file (pull_request_summary.html) which can be viewed in any web broswer.Mail functionality is written but commented due to unavailablity of a SMTP Server,since Google is not allowing any third party app to send emails on it's behalf .
 
 Usage
  

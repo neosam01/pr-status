@@ -1,6 +1,8 @@
 # pr-status 
 
-Python script to extract pull request data of any given repository,the script dynamically generates a html file (pull_request_summary.html) which can be viewed in any web broswer.Mail functionality is written but commented due to unavailablity of a SMTP Server,since Google is not allowing any third party app to send emails on it's behalf.
+Python script to extract pull request data of any given repository,the script dynamically generates a html file (pull_request_summary.html) which can be viewed in any web broswer.A sample of the output file is provided in the repo.
+
+Mail functionality is written but commented due to unavailablity of a SMTP Server,since Google is not allowing any third party app to send emails on it's behalf.
 
 The script expects an evironment variable(gittoken) to be setup for authentication,in case of using in any pipeline the code needs to be refactored accordingly.
 

@@ -17,5 +17,17 @@ To run this project, you will need to add the following environment variables to
 
 `gittoken` : Token for authentication
 
+##Libraries
+The following Libraries are required for execution of the code
+
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+import requests
+import sys
+import concurrent.futures
+import os
+from datetime import datetime, timedelta
+
 
 
